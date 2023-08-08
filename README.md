@@ -3,7 +3,7 @@
 100 days of python - udemy course
 
 **git stuff** 
- *terminal commit* - git add . git commit -m "comment"
+ *terminal commit* - git add . && git commit -m "comment"
 # day 1
 
 **comments** - # *single line*
