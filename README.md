@@ -11,3 +11,9 @@
 **input = ()** - prompts an input from the user
    *inputs can be nested* - print("Hello" + input("What is your name?"))
    *moar nesting!!!* - print( len( input("What is your name? ") ) )
+
+# day 2
+
+"string"[number] - *subscripting* - references the character at the number position (starting with 0)
+123_234_456 - Same as , in large numbers
+newType(variable) - *type conversion* - converts ex. int into str
