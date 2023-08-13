@@ -16,4 +16,12 @@
 
 "string"[number] - *subscripting* - references the character at the number position (starting with 0)
 123_234_456 - Same as , in large numbers
-newType(variable) - *type conversion* - converts ex. int into str
+newType(variable) - *type conversion* - converts ex. int into str **Give it a newVariable!!**
+
+# day 3
+
+rounding - round(x / y, z) - where z is the number of decimals
+(x // y) - division into an int
+variable += x - where operators can be + - * / followed by = result in that variable operating on itself by x
+**f-string**!! - *f"string {var} {var2}"* - lets you concatenate various var types without +
+Finished the tipCalculator project
