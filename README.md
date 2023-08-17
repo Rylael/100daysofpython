@@ -25,3 +25,10 @@ rounding - round(x / y, z) - where z is the number of decimals
 variable += x - where operators can be + - * / followed by = result in that variable operating on itself by x
 **f-string**!! - *f"string {var} {var2}"* - lets you concatenate various var types without +
 Finished the tipCalculator project
+
+# day 4
+
+if else - if x: else: - colon to signal indentation
+elif - else if statement, checks for more conditions
+== - equal to
+!= - not equal to
