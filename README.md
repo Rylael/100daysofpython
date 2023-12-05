@@ -32,3 +32,22 @@ if else - if x: else: - colon to signal indentation
 elif - else if statement, checks for more conditions
 == - equal to
 != - not equal to
+
+# day 5 
+
+**random numbers**
+import random
+random.randint (a, b)
+
+**IMPORTING** 
+import xy - importing modules, modules are and can be different .py files
+
+**LISTS**
+list = [item1, item2]
+list = ["string1", "string2"]
+list[0] - first item in the list
+
+After creating the list, you can modify it, by using the *list[offset] = new data
+
+Add item to the list - listName.append(newItem)
+Add list to list - listName.extend([item1, item2])
