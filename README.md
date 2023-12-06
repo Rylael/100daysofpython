@@ -47,7 +47,13 @@ list = [item1, item2]
 list = ["string1", "string2"]
 list[0] - first item in the list
 
+len(listName) - number of items
+
 After creating the list, you can modify it, by using the *list[offset] = new data
 
 Add item to the list - listName.append(newItem)
 Add list to list - listName.extend([item1, item2])
+
+index errors - list index out of range - when calling a variable that's a len, usually subtract 1 from the call - print(indexName[itemNumber] - 1)
+
+You can nest lists - bigList[list1, list2]
